@@ -23,7 +23,7 @@ class ZapatoSizePreview extends StatelessWidget {
         ),
         child: Container(
           width: double.infinity,
-          height: (this.fullScreen) ? 600 : 630,
+          height: (this.fullScreen) ? 430 : 450,
           decoration: BoxDecoration(
             color: Color(0xffFFCF53),
             borderRadius: (!this.fullScreen)
@@ -123,6 +123,7 @@ class _ZapatoConSombra extends StatelessWidget {
           children: <Widget>[
             Positioned(bottom: 20, right: 0, child: _ZapatoSombra()),
             Image(
+              width: 200,
               image: AssetImage(zapatoModel.assetImage),
             )
           ],
@@ -138,8 +139,8 @@ class _ZapatoSombra extends StatelessWidget {
     return Transform.rotate(
       angle: -0.5,
       child: Container(
-        width: 230,
-        height: 120,
+        width: 130,
+        height: 100,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(100),
           boxShadow: const [BoxShadow(color: Color(0xffEAA14E), blurRadius: 40)]
