@@ -50,7 +50,7 @@ class ZapatoDescPage extends StatelessWidget {
                   
                   ZapatoDescripcion(
                       titulo: 'Nike Air Max 720',
-                      descripcion: "The Nike Air Max 720 goes bigger than ever before with Nike's taller Air unit yet, offering more air underfoot for unimaginable, all-day comfort. Has Air Max gone too far? We hope so.",
+                      descripcion: "Do quis in eu qui anim irure non ullamco tempor. Est deserunt ut proident cillum et ut ad voluptate sunt et commodo labore est. Et ut in minim adipisicing aliqua dolor est in aliqua Lorem quis. Nisi cupidatat enim magna in veniam consectetur enim pariatur anim adipisicing non occaecat irure.Duis consectetur nostrud esse ut eu exercitation aute non Lorem sunt sint ad laborum. Aliqua amet irure proident adipisicing deserunt anim aliqua in. Cupidatat ad velit quis proident pariatur occaecat minim deserunt. Ullamco ad excepteur ipsum cupidatat ipsum minim consequat pariatur sit nostrud ipsum. The Nike Air Max 720 goes bigger than ever before with Nike's taller Air unit yet, offering more air underfoot for unimaginable, all-day comfort. Has Air Max gone too far? We hope so.",
                   ),
 
                   _MontoBuyNow(),
